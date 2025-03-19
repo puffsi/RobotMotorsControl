@@ -9,3 +9,13 @@
 # move up 5
 
 # move left 10
+
+# speed 30
+
+# speed 10
+
+# speed 0
+
+# left_engine stop
+
+# right_engine stop
